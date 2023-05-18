@@ -1,0 +1,76 @@
+*{
+    padding: 0;
+    margin: 0;
+
+}
+
+body{
+ background-image:url("https://wallpaperaccess.com/full/175987.jpg");
+ 
+ background-repeat: no-repeat;
+ background-size: cover;
+}
+.navbar{
+    
+}
+.logo{
+    width: 100px;
+    float: left;
+    margin: -28px 20px 20px 52px;
+    border-radius: 50px;
+}
+.cart{
+    width: 100px;
+    float: right;
+    margin: -45px 56px 20px 4px;
+    border-radius: 50px;
+}
+.navbar{
+    margin-top: 50px;
+}
+.navbar ul li{
+    display: inline;
+    padding: 0px 60px;
+    margin: -28px 20px 20px 52px;
+    color: white;
+}
+#venkat{
+    border: 5px solid pink;
+    margin: 179px 1290px 20px 168px;
+    padding: 3px 10px;
+    background-color:pink;
+    color: brown;
+}
+#abhi{
+    margin: 20px 980px 20px 167px;
+    font-size: 50px;
+    color:lightskyblue;
+}
+#akhil{
+    margin: -18px 1125px 0px 167px;
+    color: white;
+}
+.left{
+    width: 40px;
+    margin:6px 1px -2px 166px;
+    border-radius: 95px;
+}
+.siva{
+    width: 40px;
+    margin:6px 1px -2px -2px;
+    border-radius: 95px;
+}
+#manu{
+    transform: rotate(-90deg);
+    position: absolute;
+    left: -0px;
+    bottom: 180px;
+    padding: 5px 20px;
+
+}
+
+
+
+
+    
+    
